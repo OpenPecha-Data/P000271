@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅། །ཟབ་མོའི་གཏེར་དང་གཏེར་སྟོན་གྲུབ་ཐོབ་ཇི་ལྟར་བྱོན་པའི་ལོ་རྒྱུས་མདོར་བསྡུས་བཀོད་པ་རིན་ཆེན་བཻཌཱུརྻའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: SHE-RTD-004
+  layers:
+  - book_title
+  - author
+  - quotation
+web_metadata:
+  title:
+    en: A Precious Rosary of Lapis Lazuli:Short Biographies of the 108 Tertons
+    bo: ཟབ་མོའི་གཏེར་དང་གཏེར་སྟོན་གྲུབ་ཐོབ་ཇི་ལྟར་བྱོན་པའི་ལོ་རྒྱུས་མདོར་བསྡུས་བཀོད་པ་རིན་ཆེན་བཻཌཱུརྻའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 4
+    bo: ''
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-004
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-004.epub
+  description:
+    en: ''
+    bo: ''
