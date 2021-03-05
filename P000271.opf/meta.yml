@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000271
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཟབ་མོའི་གཏེར་དང་གཏེར་སྟོན་གྲུབ་ཐོབ་ཇི་ལྟར་བྱོན་པའི་ལོ་རྒྱུས་མདོར་བསྡུས་བཀོད་པ་རིན་ཆེན་བཻཌཱུརྻའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: SHE-RTD-004
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-RTD-004
 web_metadata:
   title:
     en: A Precious Rosary of Lapis Lazuli:Short Biographies of the 108 Tertons
